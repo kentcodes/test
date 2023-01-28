@@ -45,7 +45,7 @@ body a {
 
 body a:hover, 
 body a:focus {
-    color: #d0a8b1;
+    color: #2596be;
     text-decoration: none;
 }
 
@@ -219,7 +219,7 @@ h6 {
 
 .slick-next:hover, 
 .slick-prev:hover {
-    color: #d0a8b1;
+    color: #2596be;
 }
 
 .slick-prev {
@@ -233,7 +233,7 @@ h6 {
 
 .menu-wrapper {        
     z-index: 9999 !important;
-    background-color: #D0CCDA;
+    background-color: #6ab6da;
     width: 100% !important;
     top: 0;
     position: fixed;
@@ -327,7 +327,7 @@ img.menu-logo {
 }
 
 .menu-wrapper.section-services .main-menu.sm-clean a {
-    color: #d0a8b1;
+    color: #2596be;
 }
 
 h2.big-title {    
@@ -478,7 +478,7 @@ h2.big-title {
 .process {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    color: #d0a8b1;
+    color: #2596be;
     font-size: 82px;
     display: inline-block;
     width: 230px;
@@ -516,7 +516,7 @@ h2.big-title {
     width: 96px;
     margin: 0 20px;
     height: 10px;
-    background-color: #f4eaed;
+    background-color: #1493cc;
     display: inline-block;
     vertical-align: 125px;
 }
@@ -695,7 +695,7 @@ img.support-img {
 
 .testimonial-slider-holder .slick-next:hover, 
 .testimonial-slider-holder .slick-prev:hover {
-    color: #d0a8b1;    
+    color: #2596be;    
 }
 
 .testimonial-slider {
@@ -753,7 +753,7 @@ img.support-img {
 
 .pricing-holder {
     text-align: center;
-    background-color: #D0A8B1;
+    background-color: #2596be;
     width: 90%;
     padding-bottom: 30px;
     margin-left: auto;    
@@ -934,7 +934,7 @@ img.support-img {
 }
 
 .progress_bar_field_perecent {
-    background-color: #D0A8B1;
+    background-color: #2596be;
     height: 59px;    
     position: absolute;
     top: 0;
@@ -952,7 +952,7 @@ img.support-img {
 }
 
 .menu-wrapper.section-contact .main-menu.sm-clean a {
-    color: #d0a8b1;
+    color: #2596be;
 }
 
 ul.counter-widget {
@@ -975,7 +975,7 @@ ul.counter-widget {
 }
 
 #contact ul.counter-widget li span {
-    color: #d0a8b1;
+    color: #2596be;
     font-size: 20px;
     font-weight: 600;
     padding: 15px 0 15px 0;
