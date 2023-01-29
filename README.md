@@ -13,3 +13,5 @@ light bg hover
 #45aadc
 pri2
 #2799ce
+
+ns67.domaincontrol.com68
