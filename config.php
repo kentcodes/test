@@ -1,6 +1,6 @@
 <?php
 
 //SITE GLOBAL CONFIGURATION
-$email = "acrossislands@gmail.com";   //<-- Your email
+$email = "kent@kentcodes.info";   //<-- Your email
 
 ?>
